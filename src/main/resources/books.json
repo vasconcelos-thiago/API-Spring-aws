@@ -1,0 +1,33 @@
+ [
+    {
+      "titulo": "Clean Code",
+      "autor": "Robert C. Martin",
+      "numero_paginas": 464,
+      "data_lancamento": "11/08/2008"
+    },
+    {
+      "titulo": "The Pragmatic Programmer",
+      "autor": "Andrew Hunt, David Thomas",
+      "numero_paginas": 352,
+      "data_lancamento": "20/10/1999"
+    },
+    {
+      "titulo": "Design Patterns",
+      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "numero_paginas": 416,
+      "data_lancamento": "21/10/1994"
+    },
+    {
+      "titulo": "Code Complete",
+      "autor": "Steve McConnell",
+      "numero_paginas": 960,
+      "data_lancamento": "19/06/1993"
+    },
+    {
+      "titulo": "Introduction to Algorithms",
+      "autor": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "numero_paginas": 1312,
+      "data_lancamento": "26/09/2001"
+    }
+  ]
+
